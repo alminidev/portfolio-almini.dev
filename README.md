@@ -25,4 +25,6 @@ Veja os esboços do projeto no Figma: [Link para o Figma](#)
 - 🔲 Implementar interatividade com JavaScript  
 
 ## 📢 Status do Projeto
+- ✅ Pesquisa de referências  
+- 🔲 Criar wireframe no Figma
 🟡 **Em desenvolvimento**
