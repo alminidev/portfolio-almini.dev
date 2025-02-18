@@ -1,6 +1,12 @@
 # Meu Portfólio 🚀
 
-Este é o meu portfólio, desenvolvido como parte do meu laboratório em front-end.
+O amini.dev é mais do que um simples portfólio; é um laboratório de aprendizado e inovação. Seu propósito é documentar minha evolução como desenvolvedor Front-End, desde conceitos básicos até a implementação de projetos completos.
+
+Aqui, exploro tecnologias como HTML, CSS, JavaScript, React e Node.js, aplicando metodologias ágeis e boas práticas de desenvolvimento. Cada projeto reflete não apenas meu conhecimento técnico, mas também minha capacidade de resolver problemas e criar interfaces funcionais e intuitivas.
+
+Além disso, o amini.dev serve como um hub para testes, experimentação e aprimoramento contínuo, onde compartilho insights, desafios e soluções que encontro ao longo da minha jornada.
+
+O objetivo final? Tornar-se um desenvolvedor altamente capacitado e contribuir para projetos reais, seja como freelancer ou em uma equipe de tecnologia. 🚀
 
 ## 📌 Tecnologias Utilizadas
 - HTML
