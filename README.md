@@ -1,6 +1,6 @@
 # Meu Portfólio 🚀
 
-O amini.dev é mais do que um simples portfólio; é um laboratório de aprendizado e inovação. Seu propósito é documentar minha evolução como desenvolvedor Front-End, desde conceitos básicos até a implementação de projetos completos.
+O almini.dev é mais do que um simples portfólio; é um laboratório de aprendizado e inovação. Seu propósito é documentar minha evolução como desenvolvedor Front-End, desde conceitos básicos até a implementação de projetos completos.
 
 Aqui, exploro tecnologias como HTML, CSS, JavaScript, React e Node.js, aplicando metodologias ágeis e boas práticas de desenvolvimento. Cada projeto reflete não apenas meu conhecimento técnico, mas também minha capacidade de resolver problemas e criar interfaces funcionais e intuitivas.
 
