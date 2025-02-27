@@ -8,6 +8,10 @@ Além disso, o amini.dev serve como um hub para testes, experimentação e aprim
 
 O objetivo final? Tornar-se um desenvolvedor altamente capacitado e contribuir para projetos reais, seja como freelancer ou em uma equipe de tecnologia. 🚀
 
+## Preview do Portfólio
+
+![Preview do Portfólio](assets/tela-portfolio.jpg)
+
 ## 📌 Tecnologias Utilizadas
 - HTML
 - CSS
